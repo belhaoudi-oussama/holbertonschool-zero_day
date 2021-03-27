@@ -1,1 +1,1 @@
-this is a directory inside the **holbertonschool-zero_day** repository 
+This is a directory inside the **holbertonschool-zero_day** repository 

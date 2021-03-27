@@ -1,1 +1,1 @@
-the commande uname without options prints the "Linux" witch is the name of the kernel
+The commande uname without options prints the "Linux" witch is the name of the kernel
